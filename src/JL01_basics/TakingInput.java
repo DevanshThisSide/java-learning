@@ -12,7 +12,7 @@ public class TakingInput {
         n2=sc.nextInt();
         int mul = n1*n2;
         System.out.print("The Multiplication of the Numbers : " + mul);
-//        String str = sc.next();//Does not takes the words after the whitespace
+//        String str = sc.next();//Does not read the words after the whitespace
 //        String str_full = sc.nextLine();
 //        System.out.println(str);
 //        System.out.print(str_full);//Takes the full line input
