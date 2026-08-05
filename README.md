@@ -7,14 +7,17 @@ This repository documents my Java programming journey while preparing to become 
 ### Week 1
 - ✅ JL01 - Java Basics
 - ✅ JL02 - Conditionals
-- ⏳ JL03 - Loops
+- ✅ JL03 - Loops
 - ⏳ JL04 - Arrays
 - ⏳ JL05 - Methods & Recursion
 - ⏳ JL06 - Patterns
 
+---
+
 ## 📚 Topics Covered
 
 ### ✅ JL01 - Java Basics
+
 - Variables & Data Types
 - Java Literals
 - Operators
@@ -23,7 +26,11 @@ This repository documents my Java programming journey while preparing to become 
 - Strings
 - Math Class
 
+---
+
 ### ✅ JL02 - Conditionals
+
+#### Concepts Covered
 
 - if Statement
 - if-else Statement
@@ -45,6 +52,32 @@ This repository documents my Java programming journey while preparing to become 
 - Income Tax Calculator
 - Ternary Operator Practice
 
+---
+
+### ✅ JL03 - Loops
+
+#### Concepts Covered
+
+- while Loop
+- do-while Loop
+- for Loop
+- Nested Loops
+- break Statement
+- continue Statement
+- Factorial Logic
+- Fibonacci Series
+- Prime Number Logic
+
+#### Practice Programs
+
+- Looping Statements
+- Loops Practice
+- Factorial
+- Fibonacci Series
+- Prime Number Checker
+
+---
+
 ## 📂 Repository Structure
 
 ```text
@@ -57,6 +90,8 @@ src/
 ├── JL06_patterns
 └── JL07_oops (In Progress)
 ```
+
+---
 
 ## 🎯 Goal
 
@@ -74,7 +109,7 @@ Building a strong Java foundation before moving to:
 
 ## 📌 Learning Strategy
 
-- Learn one Java topic at a time.
+- Learn one Java topic at a time
 - Write multiple practice programs.
 - Review previous code before uploading.
 - Maintain clean Git history with meaningful commits.
@@ -82,4 +117,4 @@ Building a strong Java foundation before moving to:
 
 ---
 
-Following a structured Backend Developer Roadmap with consistent daily practice and GitHub commits.
+Following a structured **Java Backend Developer Roadmap** with consistent daily practice and meaningful GitHub commits.
