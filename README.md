@@ -8,7 +8,7 @@ This repository documents my Java programming journey while preparing to become 
 - ✅ JL01 - Java Basics
 - ✅ JL02 - Conditionals
 - ✅ JL03 - Loops
-- ⏳ JL04 - Arrays
+- ✅ JL04 - Arrays
 - ⏳ JL05 - Methods & Recursion
 - ⏳ JL06 - Patterns
 
@@ -17,6 +17,8 @@ This repository documents my Java programming journey while preparing to become 
 ## 📚 Topics Covered
 
 ### ✅ JL01 - Java Basics
+
+#### Concepts Covered
 
 - Variables & Data Types
 - Java Literals
@@ -78,6 +80,39 @@ This repository documents my Java programming journey while preparing to become 
 
 ---
 
+### ✅ JL04 - Arrays
+
+#### Concepts Covered
+
+- Array Declaration
+- Array Initialization
+- Array Traversal
+- Array Reversal
+- Linear Search
+- Finding Maximum Element
+- Finding Minimum Element
+- Average of Array Elements
+- Counting Even & Odd Elements
+- Checking if an Array is Sorted
+- Multidimensional Arrays
+- Matrix Operations
+
+#### Practice Programs
+
+- ArrayBasics
+- ArrayTraversal
+- ArrayReversal
+- AvgOfArray
+- CountEvenOdd
+- IsArraySorted
+- LinearSearch
+- MaximumElement
+- MinimumElement
+- MultiDimensionalArrays
+- SumOfMatrix2X3
+
+---
+
 ## 📂 Repository Structure
 
 ```text
@@ -109,7 +144,7 @@ Building a strong Java foundation before moving to:
 
 ## 📌 Learning Strategy
 
-- Learn one Java topic at a time
+- Learn one Java topic at a time.
 - Write multiple practice programs.
 - Review previous code before uploading.
 - Maintain clean Git history with meaningful commits.
