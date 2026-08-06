@@ -9,7 +9,7 @@ This repository documents my Java programming journey while preparing to become 
 - ✅ JL02 - Conditionals
 - ✅ JL03 - Loops
 - ✅ JL04 - Arrays
-- ⏳ JL05 - Methods & Recursion
+- ✅ JL05 - Methods & Recursion
 - ⏳ JL06 - Patterns
 
 ---
@@ -72,11 +72,11 @@ This repository documents my Java programming journey while preparing to become 
 
 #### Practice Programs
 
-- Looping Statements
-- Loops Practice
+- LoopingStatements
+- LoopsPractice
 - Factorial
-- Fibonacci Series
-- Prime Number Checker
+- FibonacciSeries
+- PrimeNumberChecker
 
 ---
 
@@ -113,6 +113,32 @@ This repository documents my Java programming journey while preparing to become 
 
 ---
 
+### ✅ JL05 - Methods & Recursion
+
+#### Concepts Covered
+
+- Methods
+- Method Parameters
+- Return Type
+- Method Overloading
+- Pass by Value
+- Variable Arguments (Varargs)
+- Recursion
+- Recursive Thinking
+
+#### Practice Programs
+
+- MethodBasics
+- MethodsPractice
+- MethodOverloading
+- PassByValue
+- VariableArguments
+- Recursion
+- FibonacciUsingRecursion
+- PatternUsingRecursion
+
+---
+
 ## 📂 Repository Structure
 
 ```text
@@ -123,7 +149,7 @@ src/
 ├── JL04_arrays
 ├── JL05_methods
 ├── JL06_patterns
-└── JL07_oops (In Progress)
+└── JL07_oops ( Learning In Progress)
 ```
 
 ---
