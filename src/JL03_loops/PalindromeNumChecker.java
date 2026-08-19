@@ -2,7 +2,7 @@ package JL03_loops;
 
 import java.util.Scanner;
 
-public class PalindromeNumberChecker {
+public class PalindromeNumChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Number : ");
