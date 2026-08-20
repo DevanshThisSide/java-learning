@@ -14,6 +14,7 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * ✅ JL04 - Arrays
 * ✅ JL05 - Methods & Recursion
 * 🔄 JL06 - Patterns
+* 🔄 JL07 - OOPs
 
 ---
 
@@ -171,6 +172,26 @@ The repository contains my Java practice programs, organized topic-wise into sep
 
 ---
 
+## 🔄 JL07 - OOPs
+
+### Concepts Covered
+
+* Classes and Objects
+* Creating Custom Classes
+* Object Creation
+* Methods in Classes
+* Basic OOP Practice
+
+### Practice Programs
+
+* CustomClass
+* OopsBasicsPractice
+* OperationsOnConeExercise
+
+> OOP concepts are currently being learned and additional practice programs will be added progressively.
+
+---
+
 # 📂 Repository Structure
 
 ```text
@@ -180,7 +201,8 @@ src/
 ├── JL03_loops
 ├── JL04_arrays
 ├── JL05_methods
-└── JL06_patterns
+├── JL06_patterns
+└── JL07_oops
 ```
 
 ---
