@@ -15,6 +15,10 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * ✅ JL05 - Methods & Recursion
 * 🔄 JL06 - Patterns
 * 🔄 JL07 - OOPs
+* 🔄 JL08 - Multithreading
+* 🔄 JL09 - Exception Handling
+* 🔄 JL10 - Collections
+* 🔄 JL11 - Date, Time & Calendar
 
 ---
 
@@ -93,6 +97,8 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * PerfectNumChecker
 * SpyNumChecker
 * StrongNumChecker
+* DuckNumChecker
+* PrimeNumbersInRange
 
 ---
 
@@ -169,6 +175,9 @@ The repository contains my Java practice programs, organized topic-wise into sep
 ### Practice Programs
 
 * Pattern01 - Pattern10
+* Pattern11
+
+> Pattern practice is currently being expanded with additional pattern problems.
 
 ---
 
@@ -179,16 +188,53 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * Classes and Objects
 * Creating Custom Classes
 * Object Creation
+* Instance Variables
 * Methods in Classes
-* Basic OOP Practice
+* Constructors
+* Constructor Overloading
+* `this` Keyword
+* Access Modifiers
+* Encapsulation
+* Packages
+* Inheritance
+* `super` Keyword
+* Constructor Chaining
+* Method Overriding
+* Upcasting
+* Downcasting
+* Dynamic Method Dispatch
+* Runtime Polymorphism
+* Abstract Classes
+* Abstract Methods
+* Interfaces
+* Interface Inheritance
+* Default, Static & Private Interface Methods
+* Static Members
 
 ### Practice Programs
 
 * CustomClass
 * OopsBasicsPractice
 * OperationsOnConeExercise
+* Constructors
+* ConstructorsOverloading
+* AccessModifier
+* ThisAndSuper
+* InheritanceBasics
+* InheritanceInConstructors
+* InheritancePractice
+* MethodOverriding
+* UpAndDownCasting
+* DynamicMethodDispatch
+* AbstractClassAndMethod
+* Interfaces
+* InterfaceInheritance
+* DefaultStaticPrivateMethod_Interfaces
+* StaticMembers
+* ShoppingCartItem
+* GuessTheNumberGame
 
-> OOP concepts are currently being learned and additional practice programs will be added progressively.
+> OOP is currently being learned and practiced progressively. Core inheritance and runtime polymorphism concepts have been practiced and pushed as a dedicated GitHub milestone.
 
 ---
 
