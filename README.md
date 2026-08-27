@@ -2,7 +2,7 @@
 
 This repository documents my Java programming journey while preparing to become a **Java Backend Developer**.
 
-The repository contains my Java practice programs, organized topic-wise into separate packages.
+The repository contains my Java practice programs, organized topic-wise into separate packages. Each package represents a specific stage of my Core Java learning.
 
 ---
 
@@ -19,6 +19,9 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * 🔄 JL09 - Exception Handling
 * 🔄 JL10 - Collections
 * 🔄 JL11 - Date, Time & Calendar
+* 🔄 JL12 - Javadocs & Annotations
+* 🔄 JL13 - Anonymous Classes & Lambda Expressions
+* 🔄 JL14 - File Handling
 
 ---
 
@@ -174,10 +177,9 @@ The repository contains my Java practice programs, organized topic-wise into sep
 
 ### Practice Programs
 
-* Pattern01 - Pattern10
-* Pattern11
+* Pattern01 - Pattern11
 
-> Pattern practice is currently being expanded with additional pattern problems.
+> Pattern practice is being expanded with additional pattern problems.
 
 ---
 
@@ -208,7 +210,9 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * Abstract Methods
 * Interfaces
 * Interface Inheritance
-* Default, Static & Private Interface Methods
+* Default Interface Methods
+* Static Interface Methods
+* Private Interface Methods
 * Static Members
 
 ### Practice Programs
@@ -234,7 +238,202 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * ShoppingCartItem
 * GuessTheNumberGame
 
-> OOP is currently being learned and practiced progressively. Core inheritance and runtime polymorphism concepts have been practiced and pushed as a dedicated GitHub milestone.
+> OOP is being learned and practiced progressively through inheritance, abstraction, polymorphism, interfaces, and related concepts.
+
+---
+
+## 🔄 JL08 - Multithreading
+
+### Concepts Covered
+
+* Threads
+* Creating Threads
+* `Thread` Class
+* `Runnable`
+* Thread Lifecycle
+* `start()`
+* `run()`
+* Thread Priorities
+* `sleep()`
+* Thread Synchronization
+* Basic Concurrent Execution
+
+### Practice Programs
+
+* Multithreading practice programs developed during the learning process.
+
+---
+
+## 🔄 JL09 - Exception Handling
+
+### Concepts Covered
+
+* Errors vs Exceptions
+* Exception Hierarchy
+* `try`
+* `catch`
+* `finally`
+* `throw`
+* `throws`
+* Checked Exceptions
+* Unchecked Exceptions
+* Multiple Catch Blocks
+* Nested Exception Handling
+* Custom Exceptions
+* Exception Propagation
+
+### Practice Programs
+
+* Exception handling practice programs
+* Custom exception practice programs
+
+---
+
+## 🔄 JL10 - Collections
+
+### Concepts Covered
+
+* Collections Framework
+* Collection Interfaces
+* Generics
+* `List`
+* `ArrayList`
+* `LinkedList`
+* `Set`
+* `HashSet`
+* `LinkedHashSet`
+* `TreeSet`
+* `Map`
+* `HashMap`
+* `LinkedHashMap`
+* `TreeMap`
+* `Comparable`
+* `Comparator`
+* Iterators
+* `Collections` Utility Class
+* Collection Traversal
+* Sorting
+* Searching
+* Ordering
+* Collection Performance Concepts
+
+> Collections are being completed progressively with focus on understanding the behavior, ordering, performance, and practical use of different collection types.
+
+---
+
+## 🔄 JL11 - Date, Time & Calendar
+
+### Concepts Covered
+
+* Java Date and Time API
+* `LocalDate`
+* `LocalTime`
+* `LocalDateTime`
+* Date Formatting
+* Date Parsing
+* Date Calculations
+* `Period`
+* `Duration`
+* Calendar-related Concepts
+
+---
+
+## 🔄 JL12 - Javadocs & Annotations
+
+### Concepts Covered
+
+* Javadoc Comments
+* Javadoc Tags
+* `@author`
+* `@version`
+* `@param`
+* `@return`
+* `@throws`
+* HTML Links in Javadocs
+* Generating Javadocs
+* Javadoc using IntelliJ IDEA
+* Javadoc using Terminal
+* Java Annotations
+* Built-in Annotations
+* Annotation Concepts
+
+### Practice Programs
+
+* Javadoc
+* Annotation practice programs
+
+---
+
+## 🔄 JL13 - Anonymous Classes & Lambda Expressions
+
+### Concepts Covered
+
+* Anonymous Classes
+* Anonymous Objects
+* Functional Interfaces
+* Lambda Expressions
+* Lambda Syntax
+* Lambda Parameters
+* Lambda Return Values
+* `Predicate`
+* `Consumer`
+* `Function`
+* `Supplier`
+* `test()`
+* `accept()`
+* `apply()`
+* `get()`
+
+> Functional interfaces and lambda expressions provide a foundation for Java's functional programming features and are especially useful when working with Collections and Streams.
+
+---
+
+## 🔄 JL14 - File Handling
+
+### Concepts Covered
+
+* File Handling Fundamentals
+* `File` Class
+* Files and Directories
+* Relative and Absolute Paths
+* Creating Files
+* Creating Directories
+* `FileWriter`
+* `BufferedWriter`
+* Overwriting Files
+* Appending to Files
+* `FileReader`
+* `BufferedReader`
+* Character Streams
+* Byte Streams
+* `FileInputStream`
+* `FileOutputStream`
+* `BufferedInputStream`
+* `BufferedOutputStream`
+* File Copying
+* `java.nio.file`
+* `Path`
+* `Paths`
+* `Files`
+* `StandardOpenOption`
+* Reading and Writing using NIO
+* Copying and Moving Files
+* File Deletion
+* Temporary Files
+* File Metadata
+* `IOException`
+* `FileNotFoundException`
+* Try-with-resources
+* Text vs Binary Files
+
+### Practice Programs
+
+* FileBasics
+* FileWriting
+* FileReading
+* ByteStreams
+* NIOFileHandling
+* FileHandlingPractical
 
 ---
 
@@ -248,7 +447,14 @@ src/
 ├── JL04_arrays
 ├── JL05_methods
 ├── JL06_patterns
-└── JL07_oops
+├── JL07_oops
+├── JL08_multithreading
+├── JL09_errors_exceptions
+├── JL10_collections
+├── JL11_date_time_calendar
+├── JL12_javadocs_annotations
+├── JL13_anonymous_lambda
+└── JL14_file_handling
 ```
 
 ---
