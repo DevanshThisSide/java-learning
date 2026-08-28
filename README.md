@@ -14,7 +14,7 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * ✅ JL04 - Arrays
 * ✅ JL05 - Methods & Recursion
 * 🔄 JL06 - Patterns
-* 🔄 JL07 - OOPs
+* ✅ JL07 - OOPs
 * 🔄 JL08 - Multithreading
 * 🔄 JL09 - Exception Handling
 * 🔄 JL10 - Collections
@@ -183,7 +183,7 @@ The repository contains my Java practice programs, organized topic-wise into sep
 
 ---
 
-## 🔄 JL07 - OOPs
+## ✅ JL07 - OOPs
 
 ### Concepts Covered
 
@@ -238,7 +238,7 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * ShoppingCartItem
 * GuessTheNumberGame
 
-> OOP is being learned and practiced progressively through inheritance, abstraction, polymorphism, interfaces, and related concepts.
+> Core Java OOP concepts have been completed and practiced through classes, inheritance, abstraction, polymorphism, interfaces, and related concepts.
 
 ---
 
@@ -260,7 +260,10 @@ The repository contains my Java practice programs, organized topic-wise into sep
 
 ### Practice Programs
 
-* Multithreading practice programs developed during the learning process.
+* ThreadBasics
+* RunnableBasics
+
+> Multithreading is currently being learned and expanded with additional concepts.
 
 ---
 
@@ -287,11 +290,15 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * Exception handling practice programs
 * Custom exception practice programs
 
+> Exception Handling is currently being learned and practiced.
+
 ---
 
 ## 🔄 JL10 - Collections
 
 ### Concepts Covered
+
+### Collections Framework
 
 * Collections Framework
 * Collection Interfaces
@@ -307,17 +314,71 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * `HashMap`
 * `LinkedHashMap`
 * `TreeMap`
-* `Comparable`
-* `Comparator`
-* Iterators
-* `Collections` Utility Class
-* Collection Traversal
-* Sorting
-* Searching
-* Ordering
-* Collection Performance Concepts
 
-> Collections are being completed progressively with focus on understanding the behavior, ordering, performance, and practical use of different collection types.
+### Map Concepts
+
+* Key-Value Pairs
+* Unique Keys
+* Insertion Order
+* Access Order
+* Sorted Key Order
+* Map Traversal
+* Map Methods
+
+### Ordering
+
+* `Comparable`
+* `compareTo()`
+* Natural Ordering
+* `Comparator`
+* `compare()`
+* Custom Ordering
+* Comparable vs Comparator
+* Ordering Custom Objects
+
+### Iterators
+
+* `Iterator`
+* `hasNext()`
+* `next()`
+* `remove()`
+* `ListIterator`
+* Forward Traversal
+* Backward Traversal
+* `add()`
+* `set()`
+
+### Performance Concepts
+
+* Collection Ordering
+* Basic Collection Performance
+* Tree-based Ordering
+* Red-Black Tree Concept
+
+### Collections Still To Complete
+
+* `Collections` Utility Class
+* `sort()`
+* `reverse()`
+* `shuffle()`
+* `max()`
+* `min()`
+* `frequency()`
+* `binarySearch()`
+* Other Useful Collection Utilities
+
+### Practice Programs
+
+* HashSet practice
+* LinkedHashSet practice
+* TreeSet practice
+* HashMap practice
+* LinkedHashMap practice
+* TreeMap practice
+* ComparableComparatorPractice
+* IteratorPractice
+
+> Collections are being completed progressively with focus on understanding collection behavior, ordering, performance, traversal, and practical usage.
 
 ---
 
@@ -392,34 +453,57 @@ The repository contains my Java practice programs, organized topic-wise into sep
 
 ### Concepts Covered
 
+### Part 1 - Fundamentals & File Class
+
 * File Handling Fundamentals
 * `File` Class
 * Files and Directories
 * Relative and Absolute Paths
 * Creating Files
 * Creating Directories
+
+### Part 2 - Writing to Files
+
 * `FileWriter`
 * `BufferedWriter`
 * Overwriting Files
 * Appending to Files
+
+### Part 3 - Reading Files
+
 * `FileReader`
 * `BufferedReader`
 * Character Streams
+* Reading Files
+* Reading Files Line by Line
+
+### Part 4 - Byte Streams
+
 * Byte Streams
 * `FileInputStream`
 * `FileOutputStream`
 * `BufferedInputStream`
 * `BufferedOutputStream`
-* File Copying
-* `java.nio.file`
+* Reading and Writing Binary Data
+
+### Part 5 - `java.nio.file`
+
 * `Path`
 * `Paths`
 * `Files`
 * `StandardOpenOption`
 * Reading and Writing using NIO
-* Copying and Moving Files
+* Copying Files
+* Moving Files
 * File Deletion
 * Temporary Files
+* File Metadata
+
+### Part 6 - Practical Concepts
+
+* File Copying
+* File Moving
+* File Deletion
 * File Metadata
 * `IOException`
 * `FileNotFoundException`
@@ -434,6 +518,8 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * ByteStreams
 * NIOFileHandling
 * FileHandlingPractical
+
+> File Handling has been studied progressively through six parts, from the `File` class and streams to modern `java.nio.file` operations.
 
 ---
 
