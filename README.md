@@ -277,7 +277,9 @@ The repository contains my Java practice programs, organized topic-wise into sep
 ### Concepts Covered
 
 * Errors vs Exceptions
-* Exception Hierarchy
+* Error and Exception Hierarchy
+* `Error`
+* `Exception`
 * `try`
 * `catch`
 * `finally`
@@ -292,10 +294,13 @@ The repository contains my Java practice programs, organized topic-wise into sep
 
 ### Practice Programs
 
-* Exception handling practice programs
-* Custom exception practice programs
+* ErrorException
+* ErrorExceptionPractice
+* TryCatch
+* CustomExceptionThrow
+* ThrowsDeliverySlotAvailability
 
-> Exception Handling is being practiced progressively.
+> Exception Handling is being learned progressively, starting with understanding Errors and Exceptions and moving toward exception handling, propagation, `throw`, `throws`, and custom exceptions.
 
 ---
 
