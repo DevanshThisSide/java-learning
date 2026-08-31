@@ -300,7 +300,7 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * CustomExceptionThrow
 * ThrowsDeliverySlotAvailability
 
-> Exception Handling is being learned progressively, starting with understanding Errors and Exceptions and moving toward exception handling, propagation, `throw`, `throws`, and custom exceptions.
+> Exception Handling is being practiced progressively, starting with understanding Errors and Exceptions and moving toward exception handling, `throw`, `throws`, custom exceptions, and exception propagation.
 
 ---
 
@@ -354,7 +354,7 @@ The repository contains my Java practice programs, organized topic-wise into sep
 * Deque & ArrayDeque practice
 * PriorityQueueComparatorPractice
 
-> Collections have been completed with focus on understanding collection behavior, ordering, traversal, performance, and practical usage.
+> Collections have been completed with focus on collection behavior, ordering, traversal, performance, and practical usage.
 
 ---
 
