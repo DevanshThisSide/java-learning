@@ -1,541 +1,479 @@
 # Java Learning
 
-This repository documents my Java programming journey while preparing to become a **Java Backend Developer**.
+My structured **Core Java learning journey** while preparing for a career as a **Java Backend Developer**.
 
-The repository contains my Java practice programs, organized topic-wise into separate packages. Each package represents a specific stage of my Core Java learning.
-
----
-
-## 📅 Progress
-
-* ✅ JL01 - Java Basics
-* ✅ JL02 - Conditionals
-* ✅ JL03 - Loops
-* ✅ JL04 - Arrays
-* ✅ JL05 - Methods & Recursion
-* 🔄 JL06 - Patterns
-* ✅ JL07 - OOPs
-* 🔄 JL08 - Multithreading
-* 🔄 JL09 - Exception Handling
-* ✅ JL10 - Collections
-* 🔄 JL11 - Date, Time & Calendar
-* 🔄 JL12 - Javadocs & Annotations
-* 🔄 JL13 - Anonymous Classes & Lambda Expressions
-* ✅ JL14 - File Handling
+This repository contains the Java programs and learning milestones that I have **actually pushed to GitHub**.
 
 ---
 
-# 📚 Topics Covered
+## 🗺️ GitHub Learning Path
 
-## ✅ JL01 - Java Basics
+```text
+JAVA LEARNING
+│
+├── 📚 CORE JAVA
+│   │
+│   ├── JL01 · Basics                  ✅
+│   ├── JL02 · Conditionals            ✅
+│   ├── JL03 · Loops                   ✅
+│   ├── JL04 · Arrays                  ✅
+│   └── JL05 · Methods & Recursion     ✅
+│
+├── 🧱 OOP
+│   │
+│   └── JL07 · Object-Oriented Java    🔄
+│
+├── ⚙️ ADVANCED CORE JAVA
+│   │
+│   ├── JL06 · Patterns                🔄
+│   ├── JL08 · Multithreading          🔄
+│   ├── JL09 · Exception Handling      🔄
+│   ├── JL10 · Collections             🔄
+│   ├── JL11 · Date & Time              ⏳
+│   ├── JL12 · Javadocs & Annotations  ⏳
+│   ├── JL13 · Anonymous & Lambda      ⏳
+│   └── JL14 · File Handling            ⏳
+│
+└── 🚀 BACKEND DEVELOPMENT
+    │
+    ├── DSA                           ⏳
+    ├── SQL                           ⏳
+    ├── JDBC                          ⏳
+    ├── Spring                        ⏳
+    ├── Spring Boot                   ⏳
+    ├── REST APIs                     ⏳
+    ├── Hibernate / JPA               ⏳
+    ├── Spring Security / JWT         ⏳
+    ├── Docker                        ⏳
+    ├── Backend Projects              ⏳
+    └── Placement Preparation         ⏳
+```
 
-### Concepts Covered
+**Legend:**
+`✅ Publicly completed` · `🔄 Publicly in progress` · `⏳ Not publicly started`
+
+---
+
+## 📊 Public Progress
+
+| Module                        | GitHub Status |
+| ----------------------------- | ------------- |
+| JL01 · Basics                 | ✅             |
+| JL02 · Conditionals           | ✅             |
+| JL03 · Loops                  | ✅             |
+| JL04 · Arrays                 | ✅             |
+| JL05 · Methods & Recursion    | ✅             |
+| JL06 · Patterns               | 🔄            |
+| JL07 · OOPs                   | 🔄            |
+| JL08 · Multithreading         | 🔄            |
+| JL09 · Exception Handling     | 🔄            |
+| JL10 · Collections            | 🔄            |
+| JL11 · Date & Time            | ⏳             |
+| JL12 · Javadocs & Annotations | ⏳             |
+| JL13 · Anonymous & Lambda     | ⏳             |
+| JL14 · File Handling          | ⏳             |
+
+---
+
+# 📚 Public Learning Modules
+
+<details>
+<summary><strong>JL01 · Java Basics</strong> ✅</summary>
+
+### Publicly Practiced
 
 * Variables & Data Types
 * Java Literals
 * Operators
-* Input using `Scanner`
+* `Scanner` Input
 * Formatted Output
 * Strings
-* Math Class
+* `Math` Class
 
----
+</details>
 
-## ✅ JL02 - Conditionals
+<details>
+<summary><strong>JL02 · Conditionals</strong> ✅</summary>
 
-### Concepts Covered
+### Publicly Practiced
 
-* `if` Statement
-* `if-else` Statement
-* `else-if` Ladder
+* `if`
+* `if-else`
+* `else-if`
 * Nested `if`
-* `switch` Statement
+* `switch`
 * Relational Operators
 * Logical Operators
 * Ternary Operator
 
-### Practice Programs
+### Public Practice
 
 * ATM Withdraw Simulator
 * Character Type Checker
 * Electricity Bill Calculator
 * Leap Year Checker
-* Rock Paper Scissors Game
+* Rock Paper Scissors
 * Student Grade Checker
 * Income Tax Calculator
 * Ternary Operator Practice
 
----
+</details>
 
-## ✅ JL03 - Loops
+<details>
+<summary><strong>JL03 · Loops</strong> ✅</summary>
 
-### Concepts Covered
+### Publicly Practiced
 
-* `while` Loop
-* `do-while` Loop
-* `for` Loop
+* `while`
+* `do-while`
+* `for`
 * Nested Loops
-* `break` Statement
-* `continue` Statement
-* Factorial Logic
-* Fibonacci Series
+* `break`
+* `continue`
+* Factorial
+* Fibonacci
 * Prime Number Logic
 * Digit Extraction
 * Number Property Checking
 
-### Practice Programs
+### Public Practice
 
-* LoopingStatements
-* LoopsPractice
-* Factorial
-* FibonacciSeries
-* PrimeNumberChecker
-* ArmstrongNumChecker
-* AutomorphicNumChecker
-* DisariumNumChecker
-* HappyNumChecker
-* NeonNumChecker
-* NivenNumChecker
-* PalindromeNumChecker
-* PerfectNumChecker
-* SpyNumChecker
-* StrongNumChecker
-* DuckNumChecker
-* PrimeNumbersInRange
+* `LoopingStatements`
+* `LoopsPractice`
+* `Factorial`
+* `FibonacciSeries`
+* `PrimeNumberChecker`
+* `ArmstrongNumChecker`
+* `AutomorphicNumChecker`
+* `DisariumNumChecker`
+* `HappyNumChecker`
+* `NeonNumChecker`
+* `NivenNumChecker`
+* `PalindromeNumChecker`
+* `PerfectNumChecker`
+* `SpyNumChecker`
+* `StrongNumChecker`
+* `DuckNumChecker`
+* `PrimeNumbersInRange`
 
----
+</details>
 
-## ✅ JL04 - Arrays
+<details>
+<summary><strong>JL04 · Arrays</strong> ✅</summary>
 
-### Concepts Covered
+### Publicly Practiced
 
-* Array Declaration
-* Array Initialization
-* Array Traversal
-* Array Reversal
+* Array Declaration & Initialization
+* Traversal
+* Reversal
 * Linear Search
-* Finding Maximum Element
-* Finding Minimum Element
-* Average of Array Elements
-* Counting Even & Odd Elements
-* Checking if an Array is Sorted
+* Maximum / Minimum
+* Average
+* Even / Odd Counting
+* Sorted Array Checking
 * Multidimensional Arrays
 * Matrix Operations
 
-### Practice Programs
+### Public Practice
 
-* ArrayBasics
-* ArrayTraversal
-* ArrayReversal
-* AvgOfArray
-* CountEvenOdd
-* IsArraySorted
-* LinearSearch
-* MaximumElement
-* MinimumElement
-* MultiDimensionalArrays
-* SumOfMatrix2X3
+* `ArrayBasics`
+* `ArrayTraversal`
+* `ArrayReversal`
+* `AvgOfArray`
+* `CountEvenOdd`
+* `IsArraySorted`
+* `LinearSearch`
+* `MaximumElement`
+* `MinimumElement`
+* `MultiDimensionalArrays`
+* `SumOfMatrix2X3`
 
----
+</details>
 
-## ✅ JL05 - Methods & Recursion
+<details>
+<summary><strong>JL05 · Methods & Recursion</strong> ✅</summary>
 
-### Concepts Covered
+### Publicly Practiced
 
 * Methods
-* Method Parameters
-* Return Type
+* Parameters & Return Types
 * Method Overloading
 * Pass by Value
-* Variable Arguments (Varargs)
+* Varargs
 * Recursion
 * Recursive Thinking
 
-### Practice Programs
+### Public Practice
 
-* MethodBasics
-* MethodsPractice
-* MethodOverloading
-* PassByValue
-* VariableArguments
-* Recursion
-* FibonacciUsingRecursion
-* PatternUsingRecursion
+* `MethodBasics`
+* `MethodsPractice`
+* `MethodOverloading`
+* `PassByValue`
+* `VariableArguments`
+* `Recursion`
+* `FibonacciUsingRecursion`
+* `PatternUsingRecursion`
 
----
+</details>
 
-## 🔄 JL06 - Patterns
+<details>
+<summary><strong>JL06 · Patterns</strong> 🔄</summary>
 
-### Concepts Covered
+### Publicly Pushed
 
-* Nested Loops for Pattern Printing
-* Star Patterns
-* Inverted Patterns
-* Pyramid Patterns
-* Hollow Patterns
-* Pattern Logic using Conditions
+* `Pattern01` → `Pattern11`
 
-### Practice Programs
+> Pattern practice is being expanded progressively.
 
-* Pattern01 - Pattern11
+</details>
 
-> Pattern practice is being expanded with additional pattern problems.
+<details>
+<summary><strong>JL07 · OOPs</strong> 🔄</summary>
 
----
+### Publicly Pushed
 
-## ✅ JL07 - OOPs
+* `AccessModifier`
+* `ConstructorsOverloading`
+* `StaticMembers`
 
-### Concepts Covered
+### Public OOP Areas
 
-* Classes and Objects
-* Creating Custom Classes
-* Object Creation
-* Instance Variables
-* Methods in Classes
+* Classes & Objects
 * Constructors
 * Constructor Overloading
-* `this` Keyword
 * Access Modifiers
-* Encapsulation
-* Packages
 * Inheritance
-* `super` Keyword
-* Constructor Chaining
 * Method Overriding
-* Upcasting
-* Downcasting
-* Dynamic Method Dispatch
-* Runtime Polymorphism
-* Abstract Classes
-* Abstract Methods
+* Polymorphism
+* Abstraction
 * Interfaces
-* Interface Inheritance
-* Default Interface Methods
-* Static Interface Methods
-* Private Interface Methods
 * Static Members
 
-### Practice Programs
+> OOP programs are being pushed progressively as meaningful learning milestones rather than as one large batch.
 
-* CustomClass
-* OopsBasicsPractice
-* OperationsOnConeExercise
-* Constructors
-* ConstructorsOverloading
-* AccessModifier
-* ThisAndSuper
-* InheritanceBasics
-* InheritanceInConstructors
-* InheritancePractice
-* MethodOverriding
-* UpAndDownCasting
-* DynamicMethodDispatch
-* AbstractClassAndMethod
-* Interfaces
-* InterfaceInheritance
-* DefaultStaticPrivateMethod_Interfaces
-* StaticMembers
-* ShoppingCartItem
-* GuessTheNumberGame
+</details>
 
-> OOP has been completed through inheritance, polymorphism, abstraction, interfaces, and static members.
+<details>
+<summary><strong>JL08 · Multithreading</strong> 🔄</summary>
 
----
+### Publicly Pushed
 
-## 🔄 JL08 - Multithreading
+* `ThreadBasics`
+* `RunnableBasics`
+* `ThreadConstructors`
+* `ThreadMethods`
+* `ThreadPriority`
 
-### Concepts Covered
+### Public Topics
 
 * Threads
-* Creating Threads
-* `Thread` Class
+* `Thread`
 * `Runnable`
+* Thread Creation
 * Thread Constructors
 * Thread Lifecycle
-* `start()`
-* `run()`
+* `start()` / `run()`
 * Thread Methods
 * `sleep()`
 * Thread Priorities
-* Thread Synchronization
-* Basic Concurrent Execution
 
-### Practice Programs
+> Multithreading is being pushed progressively through focused practice milestones.
 
-* ThreadBasics
-* RunnableBasics
-* ThreadConstructors
-* ThreadMethods
-* ThreadPriority
+</details>
 
-> Multithreading is being learned progressively through thread creation, Runnable, constructors, thread methods, priorities, and basic concurrent execution.
+<details>
+<summary><strong>JL09 · Exception Handling</strong> 🔄</summary>
 
----
+### Publicly Pushed
 
-## 🔄 JL09 - Exception Handling
+* `ErrorException`
+* `ErrorExceptionPractice`
+* `TryCatch`
+* `CustomExceptionThrow`
+* `ThrowsDeliverySlotAvailability`
 
-### Concepts Covered
+### Public Topics
 
 * Errors vs Exceptions
-* Error and Exception Hierarchy
-* `Error`
-* `Exception`
+* Error & Exception Hierarchy
 * `try`
 * `catch`
 * `finally`
 * `throw`
 * `throws`
-* Checked Exceptions
-* Unchecked Exceptions
-* Multiple Catch Blocks
-* Nested Exception Handling
+* Checked / Unchecked Exceptions
 * Custom Exceptions
-* Exception Propagation
 
-### Practice Programs
+> Exception Handling is being pushed progressively as the module develops.
 
-* ErrorException
-* ErrorExceptionPractice
-* TryCatch
-* CustomExceptionThrow
-* ThrowsDeliverySlotAvailability
+</details>
 
-> Exception Handling is being practiced progressively, starting with understanding Errors and Exceptions and moving toward exception handling, `throw`, `throws`, custom exceptions, and exception propagation.
+<details>
+<summary><strong>JL10 · Collections</strong> 🔄</summary>
 
----
+### Publicly Pushed
 
-## ✅ JL10 - Collections
+* `JCF_ArrayList`
+* `JCF_LinkedList`
+* `JCF_ArrayDeque`
 
-### Concepts Covered
+### Public Topics
 
 * Collections Framework
-* Collection Interfaces
 * Generics
 * `List`
 * `ArrayList`
 * `LinkedList`
-* `Set`
-* `HashSet`
-* `LinkedHashSet`
-* `TreeSet`
-* `Map`
-* `HashMap`
-* `LinkedHashMap`
-* Access-order `LinkedHashMap`
-* `TreeMap`
-* `Comparable`
-* `Comparator`
-* `Iterator`
-* `ListIterator`
-* `Collections` Utility Class
-* Collection Traversal
-* Sorting
-* Searching
-* Ordering
-* Queue
-* `PriorityQueue`
 * `Deque`
 * `ArrayDeque`
-* Custom Priority using `Comparator`
-* Lambda Expressions with `Comparator`
-* Collection Performance Concepts
-* Red-Black Tree Concept
 
-### Practice Programs
+> Collections are being pushed progressively through focused learning milestones.
 
-* Collection practice programs
-* Set practice programs
-* Map practice programs
-* Iterator practice programs
-* Comparable & Comparator practice
-* Collections utility practice
-* Queue practice
-* PriorityQueue practice
-* Deque & ArrayDeque practice
-* PriorityQueueComparatorPractice
+</details>
 
-> Collections have been completed with focus on collection behavior, ordering, traversal, performance, and practical usage.
+<details>
+<summary><strong>JL11 · Date, Time & Calendar</strong> ⏳</summary>
 
----
+> No JL11 files have been confirmed as pushed to GitHub yet.
 
-## 🔄 JL11 - Date, Time & Calendar
+</details>
 
-### Concepts Covered
+<details>
+<summary><strong>JL12 · Javadocs & Annotations</strong> ⏳</summary>
 
-* Java Date and Time API
-* `LocalDate`
-* `LocalTime`
-* `LocalDateTime`
-* Date Formatting
-* Date Parsing
-* Date Calculations
-* `Period`
-* `Duration`
-* Calendar-related Concepts
+> No JL12 files have been confirmed as pushed to GitHub yet.
 
-> Current completion status of the complete module is being verified.
+</details>
 
----
+<details>
+<summary><strong>JL13 · Anonymous Classes & Lambda</strong> ⏳</summary>
 
-## 🔄 JL12 - Javadocs & Annotations
+> No JL13 files have been confirmed as pushed to GitHub yet.
 
-### Concepts Covered
+</details>
 
-* Javadoc Comments
-* Javadoc Tags
-* `@author`
-* `@version`
-* `@param`
-* `@return`
-* `@throws`
-* HTML Links in Javadocs
-* Generating Javadocs
-* Javadoc using IntelliJ IDEA
-* Javadoc using Terminal
-* Java Annotations
-* Built-in Annotations
-* Annotation Concepts
+<details>
+<summary><strong>JL14 · File Handling</strong> ⏳</summary>
 
-### Practice Programs
+> No JL14 files have been confirmed as pushed to GitHub yet.
 
-* Javadoc practice
-* Annotation practice programs
-
-> Javadocs have been practiced. Complete Annotation module status is being verified.
-
----
-
-## 🔄 JL13 - Anonymous Classes & Lambda Expressions
-
-### Concepts Covered
-
-* Anonymous Classes
-* Anonymous Objects
-* Functional Interfaces
-* Lambda Expressions
-* Lambda Syntax
-* Lambda Parameters
-* Lambda Return Values
-* `Predicate`
-* `Consumer`
-* `Function`
-* `Supplier`
-* `test()`
-* `accept()`
-* `apply()`
-* `get()`
-
-### Practical Integration
-
-* Lambda expressions used with `Comparator`
-* Lambda expressions used with `PriorityQueue`
-
-> Lambda expressions have been practically used with Collections. Complete JL13 module status is being verified.
-
----
-
-## ✅ JL14 - File Handling
-
-### Concepts Covered
-
-* File Handling Fundamentals
-* `File` Class
-* Files and Directories
-* Relative and Absolute Paths
-* Creating Files
-* Creating Directories
-* `FileWriter`
-* `BufferedWriter`
-* Overwriting Files
-* Appending to Files
-* `FileReader`
-* `BufferedReader`
-* Character Streams
-* Byte Streams
-* `FileInputStream`
-* `FileOutputStream`
-* `BufferedInputStream`
-* `BufferedOutputStream`
-* File Copying
-* `java.nio.file`
-* `Path`
-* `Paths`
-* `Files`
-* `StandardOpenOption`
-* Reading and Writing using NIO
-* Copying and Moving Files
-* File Deletion
-* Temporary Files
-* File Metadata
-* `IOException`
-* `FileNotFoundException`
-* Try-with-resources
-* Text vs Binary Files
-
-### Practice Programs
-
-* FileBasics
-* FileWriting
-* FileReading
-* ByteStreams
-* NIOFileHandling
-* FileHandlingPractical
-
-> File Handling has been completed through a structured six-part progression from basic file operations to NIO and practical file management.
+</details>
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-src/
-├── JL01_basics
-├── JL02_conditionals
-├── JL03_loops
-├── JL04_arrays
-├── JL05_methods
-├── JL06_patterns
-├── JL07_oops
-├── JL08_multithreading
-├── JL09_errors_exceptions
-├── JL10_collections
-├── JL11_date_time_calendar
-├── JL12_javadocs_annotations
-├── JL13_anonymous_lambda
-└── JL14_file_handling
+JavaLearning/
+│
+├── src/
+│   ├── JL01_basics/
+│   ├── JL02_conditionals/
+│   ├── JL03_loops/
+│   ├── JL04_arrays/
+│   ├── JL05_methods/
+│   ├── JL06_patterns/
+│   ├── JL07_oops/
+│   ├── JL08_multithreading/
+│   ├── JL09_errors_exceptions/
+│   ├── JL10_collections/
+│   ├── JL11_date_time_calendar/
+│   ├── JL12_javadocs_annotations/
+│   ├── JL13_anonymous_lambda/
+│   └── JL14_file_handling/
+│
+├── docs/
+└── README.md
+```
+
+> The repository structure reflects the learning modules being developed. README progress reflects only content confirmed as publicly pushed.
+
+---
+
+# 🌱 Learning Approach
+
+```text
+Learn
+  ↓
+Understand WHY
+  ↓
+Code
+  ↓
+Practice
+  ↓
+Debug
+  ↓
+Revise
+  ↓
+Push a meaningful milestone
+```
+
+### Principles
+
+* Learn through coding and practical examples.
+* Attempt problems independently before checking solutions.
+* Understand **why** the code works.
+* Use comments for important conceptual explanations.
+* Prefer varied problems over repetitive exercises.
+* Keep packages organized by topic.
+* Push meaningful learning milestones instead of bulk-uploading everything.
+* Maintain a clean and intentional Git history.
+* Let GitHub reflect genuine progress.
+
+---
+
+# 🚀 Backend Roadmap
+
+```text
+Core Java
+    ↓
+OOP
+    ↓
+Collections
+    ↓
+Exception Handling
+    ↓
+File Handling
+    ↓
+Multithreading
+    ↓
+DSA
+    ↓
+SQL
+    ↓
+JDBC
+    ↓
+Spring
+    ↓
+Spring Boot
+    ↓
+REST APIs
+    ↓
+Hibernate / JPA
+    ↓
+Spring Security / JWT
+    ↓
+Docker
+    ↓
+Backend Projects
+    ↓
+Placement Preparation
 ```
 
 ---
 
 # 🎯 Goal
 
-Building a strong Java foundation before moving toward:
+Build a strong **Core Java foundation** through consistent coding, problem solving, debugging, and meaningful GitHub milestones.
 
-* Object-Oriented Programming
-* Multithreading
-* Exception Handling
-* Collections Framework
-* File Handling
-* JDBC
-* SQL
-* Spring Boot
-* Backend Development
+The long-term goal is to progress toward:
+
+**Java → DSA → SQL → JDBC → Spring Boot → REST APIs → Hibernate/JPA → Security → Docker → Backend Projects**
+
+and become a strong **Java Backend Developer**.
 
 ---
 
-# 📌 Learning Strategy
+## ⭐ Repository Philosophy
 
-* Learn one Java topic at a time.
-* Write multiple practice programs.
-* Review previous code before uploading.
-* Keep packages organized by topic.
-* Upload meaningful milestones instead of bulk-uploading unrelated work.
-* Maintain clean Git history with meaningful commit messages.
-* Keep improving earlier code as new concepts are learned.
-* Gradually progress from Java fundamentals toward backend development.
-
----
-
-## 🚀 Goal
-
-Build strong Core Java fundamentals through consistent practice, structured learning, and meaningful GitHub milestones before moving into backend technologies such as **JDBC, APIs, and Spring Boot**.
+> **Learn it. Understand it. Code it. Debug it. Push it.**
