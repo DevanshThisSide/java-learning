@@ -29,10 +29,10 @@ JAVA LEARNING
 │   ├── JL08 · Multithreading          🔄
 │   ├── JL09 · Exception Handling      🔄
 │   ├── JL10 · Collections             🔄
-│   ├── JL11 · Date & Time              ⏳
+│   ├── JL11 · Date & Time             ⏳
 │   ├── JL12 · Javadocs & Annotations  ⏳
 │   ├── JL13 · Anonymous & Lambda      ⏳
-│   └── JL14 · File Handling            ⏳
+│   └── JL14 · File Handling           ⏳
 │
 └── 🚀 BACKEND DEVELOPMENT
     │
@@ -49,29 +49,29 @@ JAVA LEARNING
     └── Placement Preparation         ⏳
 ```
 
-**Legend:**
+**Legend:**  
 `✅ Publicly completed` · `🔄 Publicly in progress` · `⏳ Not publicly started`
 
 ---
 
 ## 📊 Public Progress
 
-| Module                        | GitHub Status |
-| ----------------------------- | ------------- |
-| JL01 · Basics                 | ✅             |
-| JL02 · Conditionals           | ✅             |
-| JL03 · Loops                  | ✅             |
-| JL04 · Arrays                 | ✅             |
-| JL05 · Methods & Recursion    | ✅             |
-| JL06 · Patterns               | 🔄            |
-| JL07 · OOPs                   | 🔄            |
-| JL08 · Multithreading         | 🔄            |
-| JL09 · Exception Handling     | 🔄            |
-| JL10 · Collections            | 🔄            |
-| JL11 · Date & Time            | ⏳             |
-| JL12 · Javadocs & Annotations | ⏳             |
-| JL13 · Anonymous & Lambda     | ⏳             |
-| JL14 · File Handling          | ⏳             |
+| Module | GitHub Status |
+| --- | --- |
+| JL01 · Basics | ✅ |
+| JL02 · Conditionals | ✅ |
+| JL03 · Loops | ✅ |
+| JL04 · Arrays | ✅ |
+| JL05 · Methods & Recursion | ✅ |
+| JL06 · Patterns | 🔄 |
+| JL07 · OOPs | 🔄 |
+| JL08 · Multithreading | 🔄 |
+| JL09 · Exception Handling | 🔄 |
+| JL10 · Collections | 🔄 |
+| JL11 · Date & Time | ⏳ |
+| JL12 · Javadocs & Annotations | ⏳ |
+| JL13 · Anonymous & Lambda | ⏳ |
+| JL14 · File Handling | ⏳ |
 
 ---
 
@@ -232,21 +232,49 @@ JAVA LEARNING
 
 ### Publicly Pushed
 
+* `AbstractClassAndMethod`
 * `AccessModifier`
+* `Constructors`
 * `ConstructorsOverloading`
+* `CustomClass`
+* `DefaultStaticPrivateMethod_Interfaces`
+* `DynamicMethodDispatch`
+* `GuessTheNumberGame`
+* `InheritanceBasics`
+* `InheritanceInConstructors`
+* `InheritancePractice`
+* `InterfaceInheritance`
+* `Interfaces`
+* `MethodOverriding`
+* `OopsBasicsPractice`
+* `OperationsOnConeExercise`
+* `ShoppingCartItem`
 * `StaticMembers`
+* `ThisAndSuper`
+* `UpAndDownCasting`
 
 ### Public OOP Areas
 
 * Classes & Objects
+* Instance Variables & Methods
 * Constructors
 * Constructor Overloading
+* `this`
+* `this()`
 * Access Modifiers
+* Encapsulation
+* Packages
 * Inheritance
+* `super`
+* Constructor Chaining
 * Method Overriding
-* Polymorphism
-* Abstraction
+* Upcasting & Downcasting
+* Dynamic Method Dispatch
+* Runtime Polymorphism
+* Abstract Classes & Methods
 * Interfaces
+* Interface Inheritance
+* Default / Static / Private Interface Methods
 * Static Members
 
 > OOP programs are being pushed progressively as meaningful learning milestones rather than as one large batch.
@@ -316,6 +344,18 @@ JAVA LEARNING
 * `JCF_ArrayList`
 * `JCF_LinkedList`
 * `JCF_ArrayDeque`
+* `JCF_HashSet`
+* `JCF_HashSet_Hashing`
+* `JCF_LinkedHashSet`
+* `JavaGenerics`
+* `JCF_HashMap`
+* `JCF_LinkedHashMap`
+* `JCF_MapConcept`
+* `JCF_TreeMap`
+* `JCF_TreeSet`
+* `JCF_ComparableComparator`
+* `JCF_Iterators`
+* `JCF_CollectionsUtilities`
 
 ### Public Topics
 
@@ -324,8 +364,27 @@ JAVA LEARNING
 * `List`
 * `ArrayList`
 * `LinkedList`
+* `Set`
+* `HashSet`
+* `LinkedHashSet`
+* `TreeSet`
+* Hashing
+* `Map`
+* `HashMap`
+* `LinkedHashMap`
+* `TreeMap`
+* `Queue`
+* `PriorityQueue`
 * `Deque`
 * `ArrayDeque`
+* `Iterator`
+* `ListIterator`
+* `Comparable`
+* `Comparator`
+* `Collections` Utility Class
+* Sorting & Ordering
+* Natural Ordering
+* Custom Ordering
 
 > Collections are being pushed progressively through focused learning milestones.
 
