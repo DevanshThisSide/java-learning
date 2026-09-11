@@ -29,8 +29,8 @@ JAVA LEARNING
 │   ├── JL08 · Multithreading          🔄
 │   ├── JL09 · Exception Handling      🔄
 │   ├── JL10 · Collections             🔄
-│   ├── JL11 · Date & Time             ⏳
-│   ├── JL12 · Javadocs & Annotations  ⏳
+│   ├── JL11 · Date & Time             🔄
+│   ├── JL12 · Javadocs & Annotations  🔄
 │   ├── JL13 · Anonymous & Lambda      ⏳
 │   └── JL14 · File Handling           ⏳
 │
@@ -68,8 +68,8 @@ JAVA LEARNING
 | JL08 · Multithreading | 🔄 |
 | JL09 · Exception Handling | 🔄 |
 | JL10 · Collections | 🔄 |
-| JL11 · Date & Time | ⏳ |
-| JL12 · Javadocs & Annotations | ⏳ |
+| JL11 · Date & Time | 🔄 |
+| JL12 · Javadocs & Annotations | 🔄 |
 | JL13 · Anonymous & Lambda | ⏳ |
 | JL14 · File Handling | ⏳ |
 
@@ -356,6 +356,8 @@ JAVA LEARNING
 * `JCF_ComparableComparator`
 * `JCF_Iterators`
 * `JCF_CollectionsUtilities`
+* `JCF_QueueDeque`
+* `JCF_PriorityQueueComparator`
 
 ### Public Topics
 
@@ -391,16 +393,49 @@ JAVA LEARNING
 </details>
 
 <details>
-<summary><strong>JL11 · Date, Time & Calendar</strong> ⏳</summary>
+<summary><strong>JL11 · Date, Time & Calendar</strong> 🔄</summary>
 
-> No JL11 files have been confirmed as pushed to GitHub yet.
+### Publicly Pushed
+
+* `DateTimeCalendar`
+* `DateTimeCalendarPractice`
+
+### Public Topics
+
+* Date & Time API
+* `LocalDate`
+* `LocalTime`
+* `LocalDateTime`
+* Date & Time Formatting
+* Date & Time Manipulation
+* `Calendar`
+
+> Date, Time and Calendar concepts are being pushed progressively through focused practice milestones.
 
 </details>
 
 <details>
-<summary><strong>JL12 · Javadocs & Annotations</strong> ⏳</summary>
+<summary><strong>JL12 · Javadocs & Annotations</strong> 🔄</summary>
 
-> No JL12 files have been confirmed as pushed to GitHub yet.
+### Publicly Pushed
+
+* `Javadoc`
+* `Annotations`
+
+### Public Topics
+
+* JavaDoc
+* Documentation Comments
+* JavaDoc Tags
+* Built-in Annotations
+* `@Override`
+* `@Deprecated`
+* `@SuppressWarnings`
+* `@FunctionalInterface`
+* Custom Annotations
+* Annotation Metadata
+
+> Javadocs and Annotations are being pushed progressively through focused practice milestones.
 
 </details>
 
