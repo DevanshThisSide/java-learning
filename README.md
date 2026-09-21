@@ -1,3 +1,4 @@
+````
 # Java Learning
 
 My structured **Core Java learning journey** while preparing for a career as a **Java Backend Developer**.
@@ -29,10 +30,10 @@ JAVA LEARNING
 │   ├── JL08 · Multithreading          🔄
 │   ├── JL09 · Exception Handling      🔄
 │   ├── JL10 · Collections             🔄
-│   ├── JL11 · Date & Time             🔄
-│   ├── JL12 · Javadocs & Annotations  🔄
-│   ├── JL13 · Anonymous & Lambda      ⏳
-│   └── JL14 · File Handling           ⏳
+│   ├── JL11 · Date & Time             ⏳
+│   ├── JL12 · Javadocs & Annotations  ⏳
+│   ├── JL13 · Anonymous & Lambda      🔄
+│   └── JL14 · File Handling           🔄
 │
 └── 🚀 BACKEND DEVELOPMENT
     │
@@ -68,10 +69,10 @@ JAVA LEARNING
 | JL08 · Multithreading | 🔄 |
 | JL09 · Exception Handling | 🔄 |
 | JL10 · Collections | 🔄 |
-| JL11 · Date & Time | 🔄 |
-| JL12 · Javadocs & Annotations | 🔄 |
-| JL13 · Anonymous & Lambda | ⏳ |
-| JL14 · File Handling | ⏳ |
+| JL11 · Date & Time | ⏳ |
+| JL12 · Javadocs & Annotations | ⏳ |
+| JL13 · Anonymous & Lambda | 🔄 |
+| JL14 · File Handling | 🔄 |
 
 ---
 
@@ -356,8 +357,6 @@ JAVA LEARNING
 * `JCF_ComparableComparator`
 * `JCF_Iterators`
 * `JCF_CollectionsUtilities`
-* `JCF_QueueDeque`
-* `JCF_PriorityQueueComparator`
 
 ### Public Topics
 
@@ -393,63 +392,79 @@ JAVA LEARNING
 </details>
 
 <details>
-<summary><strong>JL11 · Date, Time & Calendar</strong> 🔄</summary>
+<summary><strong>JL11 · Date, Time & Calendar</strong> ⏳</summary>
+
+> No JL11 files have been confirmed as pushed to GitHub yet.
+
+</details>
+
+<details>
+<summary><strong>JL12 · Javadocs & Annotations</strong> ⏳</summary>
+
+> No JL12 files have been confirmed as pushed to GitHub yet.
+
+</details>
+
+<details>
+<summary><strong>JL13 · Anonymous Classes & Lambda</strong> 🔄</summary>
 
 ### Publicly Pushed
 
-* `DateTimeCalendar`
-* `DateTimeCalendarPractice`
+* `AnonymousClasses`
+* `LambdaExpressions`
 
 ### Public Topics
 
-* Date & Time API
-* `LocalDate`
-* `LocalTime`
-* `LocalDateTime`
-* Date & Time Formatting
-* Date & Time Manipulation
-* `Calendar`
+* Anonymous Classes
+* Anonymous Classes extending a class
+* Anonymous Classes implementing interfaces
+* Functional Interfaces
+* Effectively Final Local Variables
+* Lambda Expressions
+* Lambda Syntax
+* Expression Body & Block Body
+* Lambda Parameter Rules
+* Type Inference
+* `Predicate`
+* `Consumer`
+* `Function`
+* `Supplier`
+* Lambda vs Anonymous Class
+* Lambda with Collections
 
-> Date, Time and Calendar concepts are being pushed progressively through focused practice milestones.
+> Anonymous Classes and Lambda concepts are being pushed progressively through focused practice milestones.
 
 </details>
 
 <details>
-<summary><strong>JL12 · Javadocs & Annotations</strong> 🔄</summary>
+<summary><strong>JL14 · File Handling</strong> 🔄</summary>
 
 ### Publicly Pushed
 
-* `Javadoc`
-* `Annotations`
+* `FileBasics`
+* `notes.txt`
 
 ### Public Topics
 
-* JavaDoc
-* Documentation Comments
-* JavaDoc Tags
-* Built-in Annotations
-* `@Override`
-* `@Deprecated`
-* `@SuppressWarnings`
-* `@FunctionalInterface`
-* Custom Annotations
-* Annotation Metadata
+* `java.io.File`
+* Relative Paths
+* Absolute Paths
+* File & Directory Representation
+* `exists()`
+* `createNewFile()`
+* `getName()`
+* `getPath()`
+* `getAbsolutePath()`
+* `isFile()`
+* `isDirectory()`
+* `length()`
+* `mkdir()`
+* `mkdirs()`
+* `list()`
+* `listFiles()`
+* `delete()`
 
-> Javadocs and Annotations are being pushed progressively through focused practice milestones.
-
-</details>
-
-<details>
-<summary><strong>JL13 · Anonymous Classes & Lambda</strong> ⏳</summary>
-
-> No JL13 files have been confirmed as pushed to GitHub yet.
-
-</details>
-
-<details>
-<summary><strong>JL14 · File Handling</strong> ⏳</summary>
-
-> No JL14 files have been confirmed as pushed to GitHub yet.
+> File Handling is being pushed progressively, starting with file and directory basics before reading and writing file contents.
 
 </details>
 
@@ -571,3 +586,5 @@ and become a strong **Java Backend Developer**.
 ## ⭐ Repository Philosophy
 
 > **Learn it. Understand it. Code it. Debug it. Push it.**
+
+````
