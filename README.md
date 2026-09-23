@@ -1,4 +1,3 @@
-````
 # Java Learning
 
 My structured **Core Java learning journey** while preparing for a career as a **Java Backend Developer**.
@@ -586,5 +585,3 @@ and become a strong **Java Backend Developer**.
 ## ⭐ Repository Philosophy
 
 > **Learn it. Understand it. Code it. Debug it. Push it.**
-
-````
